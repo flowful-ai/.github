@@ -25,7 +25,7 @@
 
 | Project | What it does |
 |---|---|
-| **[overhang](https://github.com/flowful-ai/overhang)** | Enclosures and brackets designed by chat. Print-ready STL or 3MF in under a minute, self-hosted. [Try it](https://overhang.flowful.ai). |
+| **[overhang](https://github.com/flowful-ai/overhang)** | Enclosures and brackets designed by chat. Print-ready STL or 3MF in under a minute, self-hosted. |
 | **[cad-skill](https://github.com/flowful-ai/cad-skill)** | A Claude Code skill that turns a description into a parametric, 3D-printable CadQuery model, with STL export and previews. |
 | **[tasksflow](https://github.com/flowful-ai/tasksflow)** | Task management with an MCP server, so your AI agent works the same board you do. GitHub and Slack integrations, Bun. |
 
